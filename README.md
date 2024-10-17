@@ -165,7 +165,7 @@
 ## 🔭 Projetos Pessoais
 
 ### **Beploi**  
-[Beploi](https://beploi.com.br) é uma plataforma que desenvolvi para ajudar tanto recrutadores quanto profissionais. Recrutadores podem cadastrar vagas de emprego facilmente, e profissionais podem buscar novas oportunidades. Meu objetivo com o Beploi é simplificar o processo de contratação e busca de empregos.
+[Beploi](https://beploi.com) é uma plataforma que desenvolvi para ajudar tanto recrutadores quanto profissionais. Recrutadores podem cadastrar vagas de emprego facilmente, e profissionais podem buscar novas oportunidades. Meu objetivo com o Beploi é simplificar o processo de contratação e busca de empregos.
 
 ---
 
