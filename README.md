@@ -180,10 +180,19 @@
 ---
 
 ### **The King of PDF**  
-[The King of PDF](https://thekingofpdf.com) é uma plataforma dedicada a fornecer ferramentas para manipulação de documentos PDF. Desenvolvi o projeto para facilitar tarefas como conversão, compressão e organização de arquivos PDF de maneira rápida e intuitiva. A missão do The King of PDF é oferecer soluções práticas para otimizar o trabalho com PDFs, atendendo desde usuários casuais até profissionais.
+[The King of PDF](https://thekingofpdf.com) é uma plataforma dedicada a fornecer ferramentas para manipulação de documentos PDF. Desenvolvi o projeto para facilitar tarefas como conversão e organização de arquivos PDF de maneira rápida e intuitiva. A missão do The King of PDF é oferecer soluções práticas para otimizar o trabalho com PDFs, atendendo desde usuários casuais até profissionais.
 
 ---
 
+### **The King of Images**  
+[The King of Images](https://thekingofimages.com/) é um site que desenvolvi para oferecer ferramentas voltadas à otimização de imagens. A plataforma inclui funcionalidades como compressão, conversão de formatos e edição, permitindo que usuários otimizem imagens de forma prática e eficiente.
+
+---
+
+### **The King of Math**  
+[The King of Math](https://thekingofmath.com/) é um projeto em andamento para fornecer ferramentas úteis para resolver problemas matemáticos. A ideia é criar uma experiência interativa que ajude tanto estudantes quanto profissionais a resolverem cálculos complexos de forma rápida e clara.
+
+---
 ### **Kelvin Mariano**  
 [Kelvin Mariano](https://kelvin-mariano.com) é meu portfólio pessoal, onde compartilho meus projetos, soluções e aprendizados no desenvolvimento de software. Aqui, você pode ver um pouco da minha trajetória, os desafios que enfrentei e as soluções criativas que desenvolvi ao longo do caminho.
 
