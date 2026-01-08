@@ -169,6 +169,13 @@
 
 ---
 
+### **Welltasker**  
+[Welltasker](https://welltasker.com/) é uma plataforma focada em organização de tarefas e produtividade. Desenvolvi o sistema para ajudar equipes e usuários a gerenciar atividades, fluxos de trabalho e prazos de forma simples e eficiente, com foco em automações internas, integrações e performance.
+
+Acesse: https://welltasker.com/
+
+---
+
 ### **Medalius**  
 [Medalius](https://medalius.com.br) é um projeto voltado para perguntas e respostas sobre a fé católica. Criei o Medalius para ajudar pessoas a tirarem dúvidas sobre temas importantes da Igreja, como sacramentos, santos e moral cristã. Cada resposta é fundamentada nos ensinamentos da Igreja, com o propósito de oferecer clareza e orientação espiritual.
 
